@@ -30,8 +30,5 @@ By the end of Day 5, you'll understand:
 - ODH operator's client-go patterns
 - Basic informer and lister concepts
 
-## 📈 Progress Tracking
-Update your completion in `../progress_tracker.md`
-
 ## ➡️ Next Steps
 Day 6: Controller-runtime Framework

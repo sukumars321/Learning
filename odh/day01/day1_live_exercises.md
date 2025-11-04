@@ -204,6 +204,6 @@ Now that you've seen the real ODH APIs in action, the theoretical concepts in yo
 1. **Complete the study guide** (`day1_complete_guide.md`) - concepts will now make perfect sense
 2. **Reference these live examples** as you read about API fundamentals
 3. **Take notes** about what you discovered in the cluster
-4. **Update your progress tracker** with both study and hands-on completion
+4. **Reflect** on what you learned from both study and hands-on work
 
 Having a live cluster makes your learning journey incredibly valuable - you're seeing production operator patterns in action! 🚀

@@ -30,8 +30,5 @@ By the end of Day 1, you'll understand:
 - How ODH extends Kubernetes with custom resources
 - Basic structure of API objects (metadata, spec, status)
 
-## 📈 Progress Tracking
-Update your completion in `../progress_tracker.md`
-
 ## ➡️ Next Steps
 Day 2: Custom Resource Definitions (CRDs) Basics

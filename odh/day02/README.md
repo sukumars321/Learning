@@ -36,8 +36,5 @@ By the end of Day 2, you'll understand:
 - Completed Day 1: Kubernetes API Fundamentals
 - Access to OpenShift cluster with ODH installed
 
-## 📈 Progress Tracking
-Update your completion in `../progress_tracker.md`
-
 ## ➡️ Next Steps
 Day 3: Controllers and Reconciliation Loop

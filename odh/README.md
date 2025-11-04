@@ -13,7 +13,6 @@ odh/
 ├── day03/          # Controllers and Reconciliation Loop
 ├── ...
 ├── day30/          # Capstone Project Planning
-├── progress_tracker.md    # Track your daily progress
 ├── quick_reference.md     # Handy command and pattern reference
 └── 30_day_study_plan.md   # Complete overview of all days
 ```
@@ -25,17 +24,15 @@ odh/
 2. **Read the day's README** for overview and goals
 3. **Follow the study guide** for concepts (40-50 minutes)
 4. **Complete hands-on exercises** (10-20 minutes)
-5. **Update progress tracker** with completion and notes
 
-### Current Progress
-- ✅ **Day 1**: Completed (35 minutes, Understanding: 5/5)
-- 🔄 **Day 2**: Ready to start - CRDs and schema validation
+### Study Structure
+Each day contains focused study materials for 1-hour learning sessions.
 
 ## 📚 Study Plan Overview
 
 ### Week 1: Foundations (Days 1-7)
-- **Day 1**: Kubernetes API fundamentals ✅
-- **Day 2**: Custom Resource Definitions (CRDs) 🔄
+- **Day 1**: Kubernetes API fundamentals
+- **Day 2**: Custom Resource Definitions (CRDs)
 - **Day 3**: Controllers and reconciliation loops
 - **Day 4**: Go programming for operators
 - **Day 5**: Client-go library basics
@@ -100,23 +97,14 @@ The study plan references code at:
 /Users/suksubra/Documents/Work/RHOAI/opendatahub-operator
 ```
 
-## 📈 Progress Tracking
-
-Use `progress_tracker.md` to:
-- ✅ Mark daily completion
-- ⏱️ Track time spent
-- 📊 Rate your understanding (1-5)
-- 📝 Record key insights and questions
-
 ## 🔧 Quick Access
 
-- **Progress Tracker**: `progress_tracker.md`
 - **Quick Reference**: `quick_reference.md` - Commands, patterns, troubleshooting
 - **Full Plan**: `30_day_study_plan.md` - Complete day-by-day breakdown
 
 ## 🏁 Getting Started
 
-**Ready for Day 2?** Navigate to `day02/` and start with the README!
+**Pick any day** that matches your current learning needs! Each day is designed as a focused 1-hour learning session.
 
 ---
 

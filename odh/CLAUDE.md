@@ -11,7 +11,6 @@ This is a **30-day structured study plan** for mastering Kubernetes Operator dev
 ## Repository Structure
 
 - **Daily Learning Modules**: `day01/` through `day30/` - Each contains structured learning materials
-- **Progress Tracking**: `progress_tracker.md` - Track daily completion and learning metrics
 - **Quick Reference**: `quick_reference.md` - Commands, patterns, and troubleshooting guide
 - **Study Plan**: `30_day_study_plan.md` - Complete overview of the 30-day curriculum
 
@@ -30,16 +29,14 @@ Each `dayXX/` directory contains:
 2. Read the day's README for overview and goals
 3. Follow the study guide for concepts (40-50 minutes)
 4. Complete hands-on exercises (10-20 minutes)
-5. Update progress tracker with completion and notes
 
-## Current Progress Context
+## Study Context
 
 When working in this repository:
 
-1. **Check Progress**: Always review `progress_tracker.md` to understand current learning state
-2. **Follow Structure**: Respect the systematic progression through concepts
-3. **Update Tracking**: Help maintain progress records for learning continuity
-4. **Reference ODH Code**: Use `/Users/suksubra/Documents/Work/RHOAI/opendatahub-operator` as the primary codebase reference
+1. **Follow Structure**: Respect the systematic progression through concepts
+2. **Reference ODH Code**: Use `/Users/suksubra/Documents/Work/RHOAI/opendatahub-operator` as the primary codebase reference
+3. **Focus on Learning**: Each day is designed as a focused 1-hour learning session
 
 ## Key Learning Path
 
@@ -79,8 +76,8 @@ When working in this repository:
 
 ### Learning Progress Management
 ```bash
-# View current progress
-cat progress_tracker.md
+# Navigate to study materials
+ls day*/
 
 # Navigate to current day
 cd dayXX/
@@ -129,11 +126,10 @@ kubectl get events --sort-by='.metadata.creationTimestamp'
 4. Check tests for usage examples
 5. Use `quick_reference.md` for patterns and troubleshooting
 
-### Progress Tracking
-- Rate understanding (1-5) after each session
-- Record key insights and questions in progress tracker
-- Note code references explored for future reference
-- Track time spent to maintain 1-hour daily limit
+### Study Focus
+- Each session is designed for 1-hour focused learning
+- Take notes on key insights and questions as needed
+- Reference ODH codebase for practical examples
 
 ### Integration with ODH Codebase
 - Always reference real ODH code examples when studying concepts
@@ -152,7 +148,7 @@ By completion, this study plan develops expertise in:
 
 - This is a **learning repository**, not a development project
 - Prioritize understanding and educational support over code generation
-- Help maintain study structure and progress tracking
+- Help maintain study structure and learning flow
 - Reference the actual ODH operator codebase for real-world examples
 - Support systematic learning progression through the 30-day curriculum
 - Assist with understanding complex operator patterns and Kubernetes concepts

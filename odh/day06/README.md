@@ -32,8 +32,5 @@ By the end of Day 6, you'll understand:
 - How ODH operator structures its controllers
 - Event filtering and watching patterns
 
-## 📈 Progress Tracking
-Update your completion in `../progress_tracker.md`
-
 ## ➡️ Next Steps
 Day 7: Week 1 Review and Practice

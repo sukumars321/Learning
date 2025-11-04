@@ -30,8 +30,5 @@ By the end of Day 4, you'll understand:
 - Struct embedding and composition patterns
 - Error handling patterns in operators
 
-## 📈 Progress Tracking
-Update your completion in `../progress_tracker.md`
-
 ## ➡️ Next Steps
 Day 5: Client-go Library Basics

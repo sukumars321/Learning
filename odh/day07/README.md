@@ -33,10 +33,5 @@ By the end of Day 7, you'll have consolidated understanding of:
 - **Controller-runtime framework** and its abstractions
 - **How ODH operator integrates all these concepts**
 
-## 📈 Progress Tracking
-- Complete Week 1 summary in `../progress_tracker.md`
-- Rate your overall understanding of foundation concepts
-- Identify areas that need reinforcement
-
 ## ➡️ Next Steps
 Week 2: Kubebuilder & Controller Framework - Building on these foundations

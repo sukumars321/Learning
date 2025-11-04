@@ -432,7 +432,7 @@ A comprehensive 30-day journey to master the building blocks and technologies us
 
 1. **Stay Consistent**: Stick to the 1-hour daily commitment
 2. **Hands-on Focus**: Always include practical exercises
-3. **Take Notes**: Document your learnings in the progress tracker
+3. **Take Notes**: Document key insights and questions as you learn
 4. **Ask Questions**: Keep a running list of questions to research
 5. **Connect Concepts**: Link new learning to previous days
 6. **Use Real Code**: Always reference the ODH codebase
